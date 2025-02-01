@@ -1,5 +1,15 @@
 body {
   margin: 0;
   box-sizing: border-box;
-  background-color: blue;
+  background-color: #ffeed4;
+}
+
+.menu {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+
+  background-color: black;
+  color: #ffeed4;
+  font-family: 'Montserrat';
 }

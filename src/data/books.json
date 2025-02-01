@@ -1,0 +1,180 @@
+{
+  "books": [
+    {
+      "image": "https://m.media-amazon.com/images/I/81ANaVZk5LL._SL1500_.jpg",
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "printLength": "320 pages",
+      "publishedDate": "2018",
+      "purchaseLink": "https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/61fdrEuPJwL._SY522_.jpg",
+      "title": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "printLength": "499 pages",
+      "publishedDate": "2011",
+      "purchaseLink": "https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/61Ij8nLooNL._SY522_.jpg",
+      "title": "The Power of Now",
+      "author": "Eckhart Tolle",
+      "printLength": "256 pages",
+      "publishedDate": "1997",
+      "purchaseLink": "https://www.amazon.com/Power-Now-Guide-Spiritual-Enlightenment/dp/1577314808"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/61S-xKd5dqL._SL1500_.jpg",
+      "title": "The Miracle Morning",
+      "author": "Hal Elrod",
+      "printLength": "202 pages",
+      "publishedDate": "2012",
+      "purchaseLink": "https://www.amazon.com/Miracle-Morning-Not-So-Obvious-Guaranteed-Transform/dp/0979019710"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/41N62t+ANTL._SY445_SX342_.jpg",
+      "title": "The Moutain Is You",
+      "author": "Brianna Wiest",
+      "printLength": "248 pages",
+      "publishedDate": "2020",
+      "purchaseLink": "https://www.amazon.com/Mountain-You-Transforming-Self-Sabotage-Self-Mastery/dp/1949759229"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/4182X3CC8NL._SY445_SX342_.jpg",
+      "title": "Lean In: Women, Work, and the Will to Lead ",
+      "author": "Sheryl Sandberg",
+      "printLength": "240 pages",
+      "publishedDate": "2013",
+      "purchaseLink": "https://www.amazon.com/Lean-Women-Work-Will-Lead/dp/0385349947"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/71vK0WVQ4rL._SY522_.jpg",
+      "title": "How to Win Friends & Influence People",
+      "author": "Dale Carnegie",
+      "printLength": "234 pages",
+      "publishedDate": "1936",
+      "purchaseLink": "https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/71vK0WVQ4rL._SY522_.jpg",
+      "title": "Never Split the Difference: Negotiating As If Your Life Depended On It",
+      "author": "Chris Voss, Tahl Raz",
+      "printLength": "288 pages",
+      "publishedDate": "2016",
+      "purchaseLink": "https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/91nujEwIpYL._SY522_.jpg",
+      "title": "Deep Work: Rules for Focused Success in a Distracted World",
+      "author": "Cal Newport",
+      "printLength": "304 page",
+      "publishedDate": "2016",
+      "purchaseLink": "https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/91nujEwIpYL._SY522_.jpg",
+      "title": "Brag Better: Master the Art of Fearless Self-Promotion",
+      "author": "Meredith Fineman",
+      "printLength": "288 pages",
+      "publishedDate": "2020",
+      "purchaseLink": "https://www.amazon.com/Brag-Better-Master-Fearless-Self-Promotion/dp/0593086813"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/81wZXiu4OiL._SY522_.jpg",
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "printLength": "256 pages",
+      "publishedDate": "2020",
+      "purchaseLink": "https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/71iSRQwNQQL._SY522_.jpg",
+      "title": "The 4-Hour Work Week",
+      "author": "Tim Ferriss",
+      "printLength": "448 pages",
+      "publishedDate": "2007",
+      "purchaseLink": "https://www.amazon.com/4-Hour-Work-Week-Escape-Anywhere/dp/0091929113/ref=tmm_pap_swatch_0"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/814tdzEY6RL._SY522_.jpg",
+      "title": "Tax-Free Wealth",
+      "author": "Tom Wheelwright",
+      "printLength": "320 pages",
+      "publishedDate": "2015",
+      "purchaseLink": "https://www.amazon.com/Tax-Free-Wealth-Permanently-Lowering-Advisors/dp/1937832058"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/81BE7eeKzAL._SY522_.jpg",
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert T. Kiyosaki",
+      "printLength": "336 pages",
+      "publishedDate": "1997",
+      "purchaseLink": "https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612681131/ref=asc_df_1612681131?mcid=ad8b0fc8d25e333ab3ed94fc28b5b235&hvocijid=13535645715080891187-1612681131-&hvexpln=73&tag=hyprod-20&linkCode=df0&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=13535645715080891187&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9007533&hvtargid=pla-2281435177138&psc=1"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/812C9lYgQbL._SY522_.jpg",
+      "title": "Girls that Invest",
+      "author": "Simran Kaur",
+      "printLength": "256 pages",
+      "publishedDate": "2022",
+      "purchaseLink": "https://www.amazon.com/Girls-That-Invest-Financial-Independence/dp/111989378X/ref=asc_df_111989378X?mcid=c9003184bfc538ea8fb41e9ab69796ba&hvocijid=7139680512120630755-111989378X-&hvexpln=73&tag=hyprod-20&linkCode=df0&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=7139680512120630755&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9007533&hvtargid=pla-2281435179978&psc=1"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/71slpLr3dDL._SY522_.jpg",
+      "title": "Attached",
+      "author": "Amir Levine, Rachel Heller",
+      "printLength": "304 pages",
+      "publishedDate": "2012",
+      "purchaseLink": "https://www.amazon.com/Attached-Science-Adult-Attachment-YouFind/dp/1585429139/ref=asc_df_1585429139?mcid=17463c2749193b2db22b7a1818f9aaf8&hvocijid=17911265564210489121-1585429139-&hvexpln=73&tag=hyprod-20&linkCode=df0&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=17911265564210489121&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9007533&hvtargid=pla-2281435177138&psc=1"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/41D518g8SNL._SY445_SX342_.jpg",
+      "title": "All About Love",
+      "author": "Bell Hooks",
+      "printLength": "272 pages",
+      "publishedDate": "2018",
+      "purchaseLink": "https://www.amazon.com/All-About-Love-New-Visions/dp/0060959479/ref=sr_1_1?dib=eyJ2IjoiMSJ9.RsDNEDUNLuZpZpdpCmUy7op3fMVDWkwH5hXgIzKNjfoz3kYhGirOLZaTUQAUinwqglnochRXJodewMGZ1bxMRC--p_lidFvexi1WxVHHn0NLOeFRFdyXCEg1DHVwuw8ticlFGC7zarYORQp_-P0XJDNjnk_5mWQej5an_0NxjeB-Yiy51G912CpH56cGY1XpSvEmoTX5coPTaIzjmZdwHMxTTmYkoXnyk3w4McPNIP8.gQ4jeUfsrcVLA-FDkgx6p2DJ9Fr0f3S-1ntfDC0Urc4&dib_tag=se&hvadid=620269636702&hvdev=c&hvlocphy=9007533&hvnetw=g&hvqmt=b&hvrand=5413885630567403040&hvtargid=kwd-1744728538230&hydadcr=22566_13493360&keywords=all+about+love-+bell+hooks&qid=1738346904&sr=8-1"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/91rR9gMuOVL._SY522_.jpg",
+      "title": "The Four Agreements",
+      "author": "Don Miguel Ruiz",
+      "printLength": "160 pages",
+      "publishedDate": "1997",
+      "purchaseLink": "https://www.amazon.com/Four-Agreements-Practical-Personal-Freedom/dp/1878424319"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/A1JGM7FozyL._SY522_.jpg",
+      "title": "Becoming Supernatural",
+      "author": "Joe Dispenza",
+      "printLength": "375 pages",
+      "publishedDate": "2017",
+      "purchaseLink": "https://www.amazon.com/Becoming-Supernatural-Common-People-Uncommon-ebook/dp/B0746RN3G79"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/31ZruhDvB-L._SY445_SX342_.jpg",
+      "title": "The Untethered Soul",
+      "author": "Michael Alan Singer",
+      "printLength": "200 pages",
+      "publishedDate": "2007",
+      "purchaseLink": "https://www.amazon.com/Becoming-Supernatural-Common-People-Uncommon-ebook/dp/B0746RN3G79"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/718ZFjFKH+L._SY522_.jpg",
+      "title": "You Are the Universe",
+      "author": "Deepak Chopra M.D., Menas C. Kafatos Ph.D.",
+      "printLength": "288 pages",
+      "publishedDate": "2017",
+      "purchaseLink": "https://www.amazon.com/You-Are-Universe-Discovering-Matters/dp/0307889165"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/51WRL8OBsvL._SX342_SY445_.jpg",
+      "title": "The Secret",
+      "author": "Rhonda Byrne",
+      "printLength": "198 pages",
+      "publishedDate": "2006",
+      "purchaseLink": "https://www.amazon.com/Secret-Rhonda-Byrne/dp/1582701709"
+    }
+  ]
+}
