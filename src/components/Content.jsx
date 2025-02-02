@@ -1,3 +1,4 @@
+import Book from './Book'
 const Content = (props) => {
   return (
     <div className="content">
@@ -16,6 +17,13 @@ const Content = (props) => {
         future today!
       </p>
       <h3>Personal Growth</h3>
+      <div>
+        {props.books.list.map((book) => {
+          if (book.bookCategory === 'Personal Growth') {
+            return <Book book={book} />
+          }
+        })}
+      </div>
       <h3>Career</h3>
       <h3>Personal Finance</h3>
       <h3>Relationships</h3>
