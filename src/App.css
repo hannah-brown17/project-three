@@ -51,6 +51,7 @@ a {
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
   grid-template-rows: 1fr;
   padding: 5px;
+  margin: 20px;
 }
 
 .bookImage {
