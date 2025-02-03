@@ -14,7 +14,7 @@ const Book = (props) => {
         rel="noopener noreferrer"
         className="bookLink"
       >
-        Purchase on Amazon!
+        Buy Now!
       </a>
     </div>
   )
