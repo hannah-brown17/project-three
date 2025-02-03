@@ -2,10 +2,10 @@ const Book = (props) => {
   return (
     <div>
       <img src={props.book.image} className="bookImage" />
-      <h5>{props.book.title}</h5>
       <h5>
-        <i>By: {props.book.author}</i>
+        <i>{props.book.title}</i>
       </h5>
+      <h5>By: {props.book.author}</h5>
       <h5>{props.book.printLength}</h5>
       <h5>Published: {props.book.publishedDate}</h5>
       <a
