@@ -2,6 +2,7 @@ body {
   margin: 0;
   box-sizing: border-box;
   background-color: #ffeed4;
+  height: 100vh;
 }
 
 .menu {
@@ -31,4 +32,33 @@ h3 {
   font-family: 'Montserrat';
   font-size: 20px;
   text-align: center;
+}
+
+h5 {
+  font-family: 'Montserrat';
+  font-size: 12px;
+  margin: 10px;
+}
+
+a {
+  font-family: 'Montserrat';
+  font-size: 12px;
+  margin: 10px;
+}
+
+.gridContainer {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+  padding: 5px;
+}
+
+.bookImage {
+  height: 200px;
+  object-fit: cover;
+  padding: 10px;
+}
+
+.bookLink:hover {
+  background-color: white;
 }

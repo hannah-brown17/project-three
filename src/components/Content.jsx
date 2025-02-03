@@ -1,7 +1,7 @@
 import Book from './Book'
 const Content = (props) => {
   return (
-    <div className="content">
+    <div>
       <h1>Top Self Development Books</h1>
       <p>
         Reading self-development books is a powerful investment in yourself.
@@ -17,7 +17,7 @@ const Content = (props) => {
         future today!
       </p>
       <h3>Personal Growth</h3>
-      <div>
+      <div className="gridContainer">
         {props.books.list.map((book) => {
           if (book.bookCategory === 'Personal Growth') {
             return <Book book={book} />
@@ -25,9 +25,37 @@ const Content = (props) => {
         })}
       </div>
       <h3>Career</h3>
+      <div className="gridContainer">
+        {props.books.list.map((book) => {
+          if (book.bookCategory === 'Career') {
+            return <Book book={book} />
+          }
+        })}
+      </div>
       <h3>Personal Finance</h3>
+      <div className="gridContainer">
+        {props.books.list.map((book) => {
+          if (book.bookCategory === 'Finance') {
+            return <Book book={book} />
+          }
+        })}
+      </div>
       <h3>Relationships</h3>
+      <div className="gridContainer">
+        {props.books.list.map((book) => {
+          if (book.bookCategory === 'Relationship') {
+            return <Book book={book} />
+          }
+        })}
+      </div>
       <h3>Spiritual</h3>
+      <div className="gridContainer">
+        {props.books.list.map((book) => {
+          if (book.bookCategory === 'Spiritual') {
+            return <Book book={book} />
+          }
+        })}
+      </div>
     </div>
   )
 }
