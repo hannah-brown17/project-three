@@ -28,6 +28,10 @@ p {
   padding: 10px;
 }
 
+p:hover {
+  opacity: 0.75;
+}
+
 h3 {
   font-family: 'Kompot Display Demo';
   font-size: 20px;
@@ -61,5 +65,5 @@ a {
 }
 
 .bookLink:hover {
-  background-color: lightblue;
+  opacity: 0.75;
 }
