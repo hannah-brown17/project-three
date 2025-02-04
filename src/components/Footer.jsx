@@ -14,7 +14,7 @@ const Footer = () => {
           placeholder="Email"
           required
         ></input>
-        <button type="submit">Subscribe</button>
+        <button type="submit">SUBSCRIBE</button>
       </form>
     </div>
   )
