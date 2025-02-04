@@ -1,14 +1,17 @@
 const Footer = () => {
   return (
     <div className="footer">
-      <h5>Subscribe to Our Newsletter</h5>
+      <h2>Subscribe to Our Newsletter</h2>
+      <p>
+        Our newsletter is jam-packed with book giveaways and author
+        recommendations!
+      </p>
       <form action="#" method="POST">
-        <label for="email">Enter your email:</label>
         <input
           type="email"
           id="email"
           name="email"
-          placeholder="Enter your email"
+          placeholder="Email"
           required
         ></input>
         <button type="submit">Subscribe</button>
