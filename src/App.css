@@ -67,3 +67,14 @@ a {
 .bookLink:hover {
   opacity: 0.75;
 }
+
+.footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+
+  background-color: black;
+  color: #ffeed4;
+  font-family: 'Montserrat';
+  font-size: 35px;
+}
