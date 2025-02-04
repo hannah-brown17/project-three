@@ -3,7 +3,7 @@ const Menu = () => {
     <div className="menu">
       <p>Home</p>
       <p>Articles</p>
-      <p>Webinars</p>
+      <p>Videos</p>
       <p>Membership</p>
       <p>About</p>
     </div>
