@@ -2,10 +2,10 @@ const Footer = () => {
   return (
     <div className="footer">
       <h2>Subscribe to Our Newsletter</h2>
-      <p>
+      <h4>
         Our newsletter is jam-packed with book giveaways and author
         recommendations!
-      </p>
+      </h4>
       <form action="#" method="POST">
         <input
           type="email"

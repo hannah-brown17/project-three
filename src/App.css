@@ -31,7 +31,7 @@ h2 {
 p {
   font-family: 'Montserrat';
   font-size: 14px;
-  padding: 20px;
+  padding: 10px;
 }
 
 p:hover {
@@ -41,6 +41,12 @@ p:hover {
 h3 {
   font-family: 'Kompot Display Demo';
   font-size: 20px;
+  text-align: center;
+}
+
+h4 {
+  font-family: 'Kompot Display Demo';
+  font-size: 15px;
   text-align: center;
 }
 
